@@ -1,0 +1,6 @@
+{
+    "main-install": {
+        "application-winget": "Google.Chrome.EXE",
+        "compatibility": "Windows, 10/11"
+    }
+}
