@@ -1,11 +1,19 @@
 {
     "main-data": {
-        "server-running": true
+        "server-active": true
     },
-    "directory-data": {
-        "folder-name": "Google Chrome",
-        "icon": "Google Chrome/icon.png",
-        "main": "Google Chrome/main.json",
-        "meta": "Google Chrome/meta.json"
-    }   
+    "applications": {
+        "google.chromium": {
+            "folder-name": "Google Chrome",
+            "icon": "Google Chrome/icon.png",
+            "main": "Google Chrome/main.json",
+            "meta": "Google Chrome/meta.json"
+        },
+        "test.program": {
+            "folder-name": "Example",
+            "icon": "Example/icon.png",
+            "main": "Example/main.json",
+            "meta": "Example/meta.json"
+        }
+    }
 }
