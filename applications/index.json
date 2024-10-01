@@ -3,9 +3,9 @@
         "server-running": true
     },
     "directory-data": {
-        "folder-name": "chrome",
-        "icon": "chrome/icon.png",
-        "main": "chrome/main.json",
-        "meta": "chrome/meta.json"
+        "folder-name": "Google Chrome",
+        "icon": "Google Chrome/icon.png",
+        "main": "Google Chrome/main.json",
+        "meta": "Google Chrome/meta.json"
     }   
 }
