@@ -8,6 +8,12 @@
             "icon": "Google Chrome/icon.png",
             "main": "Google Chrome/main.json",
             "meta": "Google Chrome/meta.json"
+        },
+        "roblox.roblox": {
+            "folder-name": "Roblox",
+            "icon": "Roblox/icon.png",
+            "main": "Roblox.main.json",
+            "meta": "Roblox/meta.json"
         }
     }
 }

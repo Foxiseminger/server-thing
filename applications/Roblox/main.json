@@ -1,0 +1,6 @@
+{
+    "main-install": {
+        "application-winget": "Roblox.Roblox",
+        "compatibility": "Windows, 10/11"
+    }
+}
