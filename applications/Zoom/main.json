@@ -1,6 +1,6 @@
 {
     "main-install": {
-        "application-winget": "Roblox.Roblox",
+        "application-winget": "Zoom",
         "compatibility": "Windows, 10/11"
     }
 }

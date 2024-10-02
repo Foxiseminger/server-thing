@@ -9,11 +9,11 @@
             "main": "Google Chrome/main.json",
             "meta": "Google Chrome/meta.json"
         },
-        "roblox.roblox": {
-            "folder-name": "Roblox",
-            "icon": "Roblox/icon.png",
-            "main": "Roblox/main.json",
-            "meta": "Roblox/meta.json"
+        "zoom.zoom": {
+            "folder-name": "Zoom",
+            "icon": "Zoom/icon.png",
+            "main": "Zoom/main.json",
+            "meta": "Zoom/meta.json"
         }
     }
 }
