@@ -12,7 +12,7 @@
         "roblox.roblox": {
             "folder-name": "Roblox",
             "icon": "Roblox/icon.png",
-            "main": "Roblox.main.json",
+            "main": "Roblox/main.json",
             "meta": "Roblox/meta.json"
         }
     }
