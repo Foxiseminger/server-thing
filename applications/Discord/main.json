@@ -1,0 +1,6 @@
+{
+    "main-install": {
+        "application-winget": "Discord.Discord",
+        "compatibility": "Windows 10/11"
+    }
+}

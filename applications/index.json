@@ -8,6 +8,12 @@
             "icon": "Google Chrome/icon.png",
             "main": "Google Chrome/main.json",
             "meta": "Google Chrome/meta.json"
+        },
+        "discord.discord": {
+            "folder-name": "Discord",
+            "icon": "Discord/icon.png",
+            "main": "Discord/main.json",
+            "meta": "Discord/meta.json"
         }
     }
 }
