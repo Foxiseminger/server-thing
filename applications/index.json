@@ -9,11 +9,11 @@
             "main": "Google Chrome/main.json",
             "meta": "Google Chrome/meta.json"
         },
-        "zoom.zoom": {
-            "folder-name": "Zoom",
-            "icon": "Zoom/icon.png",
-            "main": "Zoom/main.json",
-            "meta": "Zoom/meta.json"
+        "geode.geode-sdk-cli": {
+            "folder-name": "Geode CLI",
+            "icon": "Geode CLI/icon.png",
+            "main": "Geode CLI/main.json",
+            "meta": "Geode CLI/meta.json"
         }
     }
 }

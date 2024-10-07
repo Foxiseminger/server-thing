@@ -1,0 +1,8 @@
+{
+    "meta": {
+        "application-id": "Geode.Geode-SDK-CLI",
+        "author": "Geode",
+        "application-name": "Geode SDK",
+        "application-display-name": "Geode CLI"
+    }
+}

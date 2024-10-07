@@ -1,6 +1,6 @@
 {
     "main-install": {
-        "application-winget": "Zoom",
+        "application-winget": "GeodeSDK.GeodeCLI",
         "compatibility": "Windows, 10/11"
     }
 }
