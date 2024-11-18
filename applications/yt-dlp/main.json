@@ -1,0 +1,6 @@
+{
+    "main-install": {
+        "application-winget": "yt-dlp.yt-dlp",
+        "compatibility": "Windows, 10/11"
+    }
+}
